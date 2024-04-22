@@ -1,0 +1,8 @@
+﻿  Task 5 - Differ.cpp
+C:\Users\AYKupenov21\source\repos\Task-5---Differ\Task 5 - Differ\Task 5 - Differ\Task 5 - Differ.cpp(16,21): error C2100: illegal indirection
+C:\Users\AYKupenov21\source\repos\Task-5---Differ\Task 5 - Differ\Task 5 - Differ\Task 5 - Differ.cpp(16,40): error C2100: illegal indirection
+C:\Users\AYKupenov21\source\repos\Task-5---Differ\Task 5 - Differ\Task 5 - Differ\Task 5 - Differ.cpp(40,18): error C2665: 'Differ::Differ': no overloaded function could convert all the argument types
+C:\Users\AYKupenov21\source\repos\Task-5---Differ\Task 5 - Differ\Task 5 - Differ\Task 5 - Differ.cpp(8,5): message : could be 'Differ::Differ(int,int)'
+C:\Users\AYKupenov21\source\repos\Task-5---Differ\Task 5 - Differ\Task 5 - Differ\Task 5 - Differ.cpp(40,18): message : 'Differ::Differ(int,int)': cannot convert argument 1 from 'int [10]' to 'int'
+C:\Users\AYKupenov21\source\repos\Task-5---Differ\Task 5 - Differ\Task 5 - Differ\Task 5 - Differ.cpp(40,19): message : There is no context in which this conversion is possible
+C:\Users\AYKupenov21\source\repos\Task-5---Differ\Task 5 - Differ\Task 5 - Differ\Task 5 - Differ.cpp(40,18): message : while trying to match the argument list '(int [10], int)'
